@@ -1,5 +1,5 @@
 # To view my rollercoaster information site
-This repository was made for my Web Design Fundumentals class
+This repository was made for my Web Design Fundamentals class
 Each of the folders titled "UtahTech" were used for assignments guding us through CSS and HTML concepts.
 Each of the folders titled "Milestone" were where we used what we had learned in class and through the UtahTech assignments on our own.
 
